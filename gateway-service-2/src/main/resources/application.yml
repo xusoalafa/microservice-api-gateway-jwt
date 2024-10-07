@@ -30,6 +30,3 @@ spring:
             allowedOrigins: "*"
             allowedMethods: "*"
             allowedHeaders: "*"
-      discovery:
-        locator:
-          enabled: true
