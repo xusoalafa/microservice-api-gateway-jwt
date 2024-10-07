@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d22718e-f5ba-4b78-8199-a3be701537e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/main/java/com/nxh/gatewayservice2/GatewayService2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/main/java/com/nxh/gatewayservice2/configs/AuthFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/main/java/com/nxh/gatewayservice2/configs/RouterValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/main/java/com/nxh/gatewayservice2/services/JwtUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/test/java/com/nxh/gatewayservice2/GatewayService2ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3d22718e-f5ba-4b78-8199-a3be701537e9" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/GatewayServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/nxh/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/configs/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/nxh/gatewayservice/configs/AuthenticationFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/configs/GatewayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/nxh/gatewayservice/configs/GatewayConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/configs/RouterValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/nxh/gatewayservice/configs/RouterValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/services/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/nxh/gatewayservice/services/JwtUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service-2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service-2/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,11 +81,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HiepNguyen\workspaces\spring\microservice-api-gateway-jwt\gateway-service-2\src\main\resources" />
+      <recent name="D:\HiepNguyen\workspaces\spring\microservice-api-gateway-jwt\gateway-service-2\src\main\java\com\nxh\gatewayservice2" />
       <recent name="D:\HiepNguyen\workspaces\spring\jwt-api-gateway\authentication-service\src\main\java\com\nxh\authenticationservice" />
       <recent name="D:\HiepNguyen\workspaces\spring\jwt-api-gateway\user-service\src\main\java\com\nxh\userservice" />
       <recent name="D:\HiepNguyen\workspaces\spring\jwt-api-gateway\gateway-service\src\main\java\com\example\gatewayservice" />
-      <recent name="D:\HiepNguyen\workspaces\spring\jwt-api-gateway\gateway-service\src\main\java\com\nxh\gatewayservice" />
-      <recent name="D:\HiepNguyen\workspaces\spring\jwt-api-gateway\gateway-service\src\main\resources" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.GatewayService2Application">
@@ -207,12 +190,33 @@
       <workItem from="1728275013766" duration="6867000" />
       <workItem from="1728281901847" duration="9005000" />
       <workItem from="1728293626734" duration="239000" />
-      <workItem from="1728297049961" duration="3226000" />
+      <workItem from="1728297049961" duration="3655000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1728300365628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728300365628</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <option name="closed" value="true" />
+      <created>1728300415622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728300415622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
