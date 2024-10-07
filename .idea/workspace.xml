@@ -4,11 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d22718e-f5ba-4b78-8199-a3be701537e9" name="Changes" comment="" />
+    <list default="true" id="3d22718e-f5ba-4b78-8199-a3be701537e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/main/java/com/nxh/gatewayservice2/GatewayService2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/main/java/com/nxh/gatewayservice2/configs/AuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/main/java/com/nxh/gatewayservice2/configs/RouterValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/main/java/com/nxh/gatewayservice2/services/JwtUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service-2/src/test/java/com/nxh/gatewayservice2/GatewayService2ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/GatewayServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/nxh/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/configs/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/nxh/gatewayservice/configs/AuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/configs/GatewayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/nxh/gatewayservice/configs/GatewayConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/configs/RouterValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/nxh/gatewayservice/configs/RouterValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/services/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/nxh/gatewayservice/services/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xusoalafa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="acbc3ca5-10a7-46ac-bc5d-338ad368d5d0" />
+        <option name="url" value="https://github.com/xusoalafa/microservice-api-gateway-jwt.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,8 +80,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "D:/HiepNguyen/workspaces/spring/jwt-api-gateway/authentication-service/src/main/java/com/nxh/authenticationservice",
+    "last_opened_file_path": "D:/HiepNguyen/workspaces/spring/microservice-api-gateway-jwt/gateway-service-2/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,7 +105,7 @@
       <recent name="D:\HiepNguyen\workspaces\spring\jwt-api-gateway\gateway-service\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.AuthenticationServiceApplication">
+  <component name="RunManager" selected="Spring Boot.GatewayService2Application">
     <configuration name="AuthenticationServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nxh.authenticationservice.AuthenticationServiceApplication" />
       <module name="authentication-service" />
@@ -67,6 +118,12 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <toRun name="AuthenticationServiceApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="UserServiceApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
     </configuration>
     <configuration name="AuthenticationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="authentication-service" />
@@ -95,7 +152,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="GatewayService2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway-service-2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nxh.gatewayservice2.GatewayService2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="gateway-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gatewayservice.GatewayServiceApplication" />
       <extension name="coverage">
@@ -117,6 +181,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.AuthenticationServiceApplication" />
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Spring Boot.GatewayService2Application" />
       <item itemvalue="Spring Boot.AuthenticationServiceApplication" />
       <item itemvalue="Spring Boot.UserServiceApplication" />
       <item itemvalue="Spring Boot.ConfigServerApplication" />
@@ -125,7 +191,6 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.GatewayServiceApplication" />
         <item itemvalue="Spring Boot.DiscoveryServiceApplication" />
         <item itemvalue="Application.AuthenticationServiceApplication" />
       </list>
@@ -141,6 +206,8 @@
       <updated>1728275012492</updated>
       <workItem from="1728275013766" duration="6867000" />
       <workItem from="1728281901847" duration="9005000" />
+      <workItem from="1728293626734" duration="239000" />
+      <workItem from="1728297049961" duration="3226000" />
     </task>
     <servers />
   </component>

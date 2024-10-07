@@ -1,4 +1,4 @@
-package com.example.gatewayservice.configs;
+package com.nxh.gatewayservice2.configs;
 
 import org.springframework.http.server.reactive.ServerHttpRequest;
 import org.springframework.stereotype.Service;

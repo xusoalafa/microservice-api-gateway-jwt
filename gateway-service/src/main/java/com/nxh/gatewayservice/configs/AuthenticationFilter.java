@@ -1,6 +1,6 @@
-package com.example.gatewayservice.configs;
+package com.nxh.gatewayservice.configs;
 
-import com.example.gatewayservice.services.JwtUtils;
+import com.nxh.gatewayservice.services.JwtUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.cloud.gateway.filter.GatewayFilter;

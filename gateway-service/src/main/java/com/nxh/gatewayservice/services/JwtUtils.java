@@ -1,4 +1,4 @@
-package com.example.gatewayservice.services;
+package com.nxh.gatewayservice.services;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
